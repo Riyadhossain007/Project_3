@@ -1,0 +1,56 @@
+.header{
+	min-height: 100px;
+	background: rgb(120, 120, 120);
+	margin-bottom: 2px;
+	margin-top: 20px
+}
+.logo{
+	min-height: 25px;
+	width: 40px;
+	background: rgb(172, 190, 125);
+	margin-left: 30px;
+	float: left;
+	margin-top: 35px;
+
+}
+.banner{
+	min-height: 300px;
+	background: rgb(160, 174, 147);
+	margin-bottom: 2px;
+	
+}
+.sevice{
+	overflow:hidden;
+	min-height: 500px;
+	margin-bottom: 2px;
+}
+.section1{
+	min-height: 300px;
+	width: 30%;
+	background: rgb(133, 190, 274);
+	float: left;
+}
+.section2{
+	min-height: 300px;
+	width: 30%;
+	background: rgb(133, 156, 155);
+	float: left;
+	margin-left: 50px;
+	margin-bottom: 2px;
+	
+}
+.section3{
+	min-height: 300px;
+	width: 30%;
+	background: rgb(163, 150, 176);
+	float: right;
+	margin-bottom: 2px;
+
+
+}
+.footer{
+	min-height: 100px;
+	background: rgb(193, 140, 155);
+	clear: both;
+
+}
